@@ -35,7 +35,7 @@ const copyToClipboard = () =>{
 }
   return (
     <>
-      <div className="h-screen w-full bg-gray-950 text-white p-5 md:px-20 lg:px-32 flex justify-center items-center">
+      <div className="h-[100dvh] w-[100dvw] bg-gray-950 text-white p-5 md:px-20 lg:px-32 flex justify-center items-center">
         <div className="max-w-2xl">
 <div className="heading text-4xl font-bold mb-10">Random Password Generator</div>
         <div className="password bg-blue-600 rounded-2xl mb-10">
