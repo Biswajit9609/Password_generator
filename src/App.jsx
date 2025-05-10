@@ -61,7 +61,7 @@ const copyToClipboard = () =>{
           <label htmlFor="char"> Allow Characters</label>
           <br />
         </div>
-        <div className="generate justify-center">
+        <div className="generate flex justify-center">
           <button className='h-15 w-10/12 bg-purple-600 rounded-full' onClick={passwordGenerator}>Generate</button>
         </div>
         </div>
